@@ -7,7 +7,7 @@ The advantage of using this tool is its completely free for use and also no logi
 to access this tool. It has user friendly rich and responsive UI so you can access this tool across multiple devices like smartphone, laptop, desktop, tablet etc.
 
 # Try this Free Tool
- [https://toolbil.com/online-tools/youtube-seo-tools/youtube-video-data-extractor]
+ https://toolbil.com/online-tools/youtube-seo-tools/youtube-video-data-extractor
 
 # What You Can Extract
 - Video title and description
